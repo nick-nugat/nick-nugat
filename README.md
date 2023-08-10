@@ -4,7 +4,6 @@
 👋 Hello there! I'm Nick, and I'm passionate about computers! 
 
 ## Skills
-## Programming languages
 - Java
 - C++
 
