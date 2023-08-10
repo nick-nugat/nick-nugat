@@ -1,7 +1,6 @@
-# nick-nugat
+<h1 align="center"> nick-nugat
+<h3 align="center">👋 Hello there! I'm Nick, and I'm passionate about computers!</h3>
 
-## About me
-👋 Hello there! I'm Nick, and I'm passionate about computers! 
 
 ## Skills
 - Java
@@ -10,5 +9,10 @@
 
 ## Contacts
 - Email: onestoptube@gmail.com
-- Discord and Instagram: @nick.nugat
+- Discord: nick.nugat
+- Instagram: @nicky.nugat[instagram.com/nicky.nugat]
+  
+
+
+
 
