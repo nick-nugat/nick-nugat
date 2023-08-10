@@ -1,16 +1,15 @@
-### Hi there 👋
+# nick-nugat
 
-<!--
-**nick-nugat/nick-nugat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+👋 Hello there! I'm Nick, and I'm passionate about computers! 
 
-Here are some ideas to get you started:
+## Skills
+## Programming languages
+- Java
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contacts
+- Email: onestoptube@gmail.com
+- Discord and Instagram: @nick.nugat
+
