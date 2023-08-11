@@ -10,7 +10,7 @@
 ## Contacts
 - Email: onestoptube@gmail.com
 - Discord: nick.nugat
-- Instagram: @nicky.nugat[instagram.com/nicky.nugat]
+- Instagram: [@nicky.nugat](instagram.com/nicky.nugat)
   
 
 
