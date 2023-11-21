@@ -8,9 +8,8 @@
 
 
 ## Contacts
-- Email: onestoptube@gmail.com
+- Email: nicholas.nguyen.cs@gmail.com
 - Discord: nick.nugat
-- Instagram: [@nicky.nugat](instagram.com/nicky.nugat)
   
 
 
