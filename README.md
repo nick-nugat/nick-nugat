@@ -1,4 +1,4 @@
-<h1 align="center"> nick-nugat
+<h1 align="center"> nicknugat
 <h3 align="center">👋 Hello there! I'm Nick, and I'm passionate about computers!</h3>
 
 
