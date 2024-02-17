@@ -1,5 +1,5 @@
 <h1 align="center"> nick-nugat
-<h3 align="center">👋 Hello there! I'm Nick, and I'm passionate about computers!</h3>
+<h3 align="center">👋 Hello there! I'm Nick, and I am passionate about computers!</h3>
 
 ## Contacts
 - Email: nicholas.nguyen.cs@gmail.com
